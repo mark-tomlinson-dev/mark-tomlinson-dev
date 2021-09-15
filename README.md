@@ -4,7 +4,7 @@ I'm **Mark**, a fullstack developer with a strong interest in frontend engineeri
 
 I love building beautifully designed user interfaces!</br>
 
-💌 How to reach me: [@MarkT0MLINS0N](https://twitter.com/NeuesAltes)
+💌 How to reach me: [@mark_toml](https://twitter.com/NeuesAltes)
 
 ## I'm excited about
 🌱 Teaching and being taught</br>
