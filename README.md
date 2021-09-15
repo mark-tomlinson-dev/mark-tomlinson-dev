@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Mark, a fullstack developer with a strong interest in frontend engineering.</br>
+I'm **Mark**, a fullstack developer with a strong interest in frontend engineering.</br>
 
 I love building beautifully designed user interfaces!</br>
 
