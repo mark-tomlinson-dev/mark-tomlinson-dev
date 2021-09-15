@@ -4,7 +4,7 @@ I'm **Mark**, a fullstack developer with a strong interest in frontend engineeri
 
 I love building beautifully designed user interfaces!</br>
 
-💌 How to reach me: [@maarrktomlinson](https://twitter.com/maarrktomlinson)
+💌 How to reach me: [@__maarrk](https://twitter.com/__maarrk)
 
 ## I'm excited about
 🌱 Teaching and being taught</br>
