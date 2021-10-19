@@ -7,7 +7,7 @@ I love building beautifully designed user interfaces!</br>
 💌 How to reach me: [@__maarrk](https://twitter.com/__maarrk)
 
 ## I'm excited about
-🌱 Teaching and being taught</br>
+🌱 Learning</br>
 🥰 Making people feel things with code</br>
 🧐 New ways of seeing</br>
 🖇 Meaningful connections</br>
