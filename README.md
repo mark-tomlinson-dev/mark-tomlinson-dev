@@ -4,7 +4,7 @@ I'm **Mark**, a fullstack developer with a strong interest in frontend engineeri
 
 I love building beautifully designed user interfaces!</br>
 
-💌 How to reach me: [@__maarrk](https://twitter.com/__maarrk)
+💌 How to reach me: [@chaos_comp_club](https://twitter.com/chaos_comp_club)
 
 ## I'm excited about
 🌱 Learning</br>
