@@ -1,5 +1,3 @@
-<img src="banner.svg" width="800" height="100" Alt="GitHub Profile Banner">
-
 # Hello 👋
 
 I'm **Mark**, a fullstack developer with a strong interest in frontend engineering.</br>
