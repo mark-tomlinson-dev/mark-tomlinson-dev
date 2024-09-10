@@ -1,39 +1,22 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                .container {
-                    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
-                    margin: 0;
-                    width: 100%;
-                    height: 100px;
-                    background-color: #e6f3e6;
-                    border: 1px solid #b3d9b3;
-                    border-radius: 10px;
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
                 }
-                h1 {
-                    font-size: 20px;
-                    margin-bottom: 8px;
-                    color: #2e8b57;
+                to {
+                    color: yellow;
                 }
-                p {
-                    font-size: 14px;
-                    margin-top: 0;
-                    color: #333;
-                }
-                a {
-                    color: #2e8b57;
-                    text-decoration: underline;
-                }
+            }
             </style>
-            <div class="container">
-                <h1>💻 Attention Hiring Managers & Other Interested Parties</h1>
-                <p>For contributions Apr 2023 - Sep 2024, please head on over to <a href="https://github.com/mark-tomlinson-arkade">mark-tomlinson-arkade</a></p>
-            </div>
+            <h1>HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>
