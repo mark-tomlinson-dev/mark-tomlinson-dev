@@ -1,4 +1,4 @@
-[![✨💻 Hiring Managers: Check mark-tomlinson-arkade for awesome contributions (Apr 2023 - Sep 2024) 🚀🌟](https://img.shields.io/badge/✨💻_Hiring_Managers-Check_mark--tomlinson--arkade_for_awesome_contributions_(Apr_2023_--_Sep_2024)_🚀🌟-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mark-tomlinson-arkade)
+<img src="banner.svg" width="800" height="100" Alt="GitHub Profile Banner">
 
 # Hello 👋
 
