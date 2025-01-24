@@ -8,7 +8,7 @@ I'm **Mark**, a fullstack developer with a strong interest in frontend engineeri
 
 I love building beautifully designed user interfaces!</br>
 
-💌 How to reach me: [@_marktomlinson](https://twitter.com/_marktomlinson)
+💌 How to reach me: [@marktomlinson.bsky.social](https://bsky.app/profile/marktomlinson.bsky.social)
 
 ## I'm excited about
 🌱 Learning</br>
